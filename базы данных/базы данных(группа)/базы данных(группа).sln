@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "базы данных(группа)", "базы данных(группа)\базы данных(группа).vbproj", "{99FC8A3A-CA78-4EFB-9DD1-92D03D23B8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99FC8A3A-CA78-4EFB-9DD1-92D03D23B8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FC8A3A-CA78-4EFB-9DD1-92D03D23B8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FC8A3A-CA78-4EFB-9DD1-92D03D23B8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FC8A3A-CA78-4EFB-9DD1-92D03D23B8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {551F9787-E3F0-40B5-A60F-47DD073FBA10}
+	EndGlobalSection
+EndGlobal
